@@ -1,9 +1,11 @@
 {
  "cells": [
   {
-   "cell_type": "markdown",
-   "id": "90f6e5d4",
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "909474c9-6d8b-4498-a216-6b6dad6b191a",
    "metadata": {},
+   "outputs": [],
    "source": [
     "# Data Science Tools and Ecosystem"
    ]
@@ -17,9 +19,11 @@
    ]
   },
   {
-   "cell_type": "markdown",
-   "id": "f6fdeae2-c219-4058-9f5f-b1e93017e1a5",
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "2150b198-6621-4afb-ac4a-f4de1c88d825",
    "metadata": {},
+   "outputs": [],
    "source": [
     "# Some of the popular languages that Data Scientists use are:\n",
     " 1. R\n",
@@ -32,9 +36,11 @@
    ]
   },
   {
-   "cell_type": "markdown",
-   "id": "3b1d6378-67cf-4c2d-a0de-4daaf4080326",
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "b0bfe7af-d6e3-43b4-b602-786b8f3288f7",
    "metadata": {},
+   "outputs": [],
    "source": [
     "# Some of the commonly used libraries used by Data Scientists include:\n",
     " 1. Pandas\n",
@@ -53,9 +59,11 @@
    ]
   },
   {
-   "cell_type": "markdown",
-   "id": "6cc02f28-4960-494e-a193-55fadd51efd0",
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "e86cddc9-f790-43bb-926b-d3ad9c01ab02",
    "metadata": {},
+   "outputs": [],
    "source": [
     "| Data Science Tools |\n",
     "| ------------------- |\n",
@@ -66,9 +74,11 @@
    ]
   },
   {
-   "cell_type": "markdown",
-   "id": "0c7dc80a",
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "eb32c16f-9ad8-439a-b756-5b3386646b85",
    "metadata": {},
+   "outputs": [],
    "source": [
     "### Below are a few examples of evaluating arithmetic expressions in Python"
    ]
@@ -108,15 +118,34 @@
    ]
   },
   {
-   "cell_type": "markdown",
-   "id": "bd125d16",
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "a1964e0c-fad6-41cf-b944-ca2032435e4a",
    "metadata": {},
+   "outputs": [],
    "source": [
     "**Objectives:**\n",
     "* List languages for Data Science\n",
     "* List commonly used libraries used by Data Scientists\n",
     "* List Data Science Tools "
    ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "3da148e0-df77-419f-9519-83cc7554e4a6",
+   "metadata": {},
+   "source": [
+    "## Author ##  \n",
+    "Javier Ortega Cirugeda"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "4c913dff-afa9-4a02-a620-7b3abdafc6e1",
+   "metadata": {},
+   "outputs": [],
+   "source": []
   }
  ],
  "metadata": {
